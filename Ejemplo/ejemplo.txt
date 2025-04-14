@@ -1,0 +1,7 @@
+1 Norin, Swift Survivalist
+1 Akki War Paint
+1 Akroan Crusader
+2 Arc Spitter
+1 Blisterspit Gremlin {r}
+//{r} Significa que va a elegir una version random de esa carta, para tener otra imagen, recomiendo usar en tierras
+36 Mountain
